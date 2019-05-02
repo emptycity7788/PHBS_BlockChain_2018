@@ -90,3 +90,20 @@ In the early stage of application, block chain technology is not yet mature, and
 At present, the third-party payment platform has occupied the vast majority of the electronic payment market and customers have formed their payment habits within the integration of electronic payment platform and e-commerce platform, which is difficult to change in the short term.
 * Public Understanding and Identity            
 Blockchain, as a new high-tech concept, is not well understood by the public and relevant institutions. Because of its complex algorithmic concepts, many people are discouraged, resulting in its low recognition and limited market acceptance.
+
+## 4. The Future of Blockchain-based Payment System
+In the future, with the continuous extension of block chain technology, the government should take the lead to improve the relevant laws of electronic payment, guide the technological innovation of block chain, and better drive the healthy development of electronic payment system under block chain. Specifically speaking, the following points should be done to help build and improve blockchain-based payment system.
+* Actively promote legislative work and legal construction of blockchain-based payment system            
+* Accelerating the research and development of block chain technology in payment system            
+* Increase investment in infrastructure construction of blockchain-based payment system            
+* Focus more on public education and personnel training of blockchain            
+* Deepening international cooperation, establishing international alliances and establishing a coherent system worldwide
+After successfully building the blockchain-based payment system, further development trends include overall optimization of intelligent contract, intelligent regulatory procedure and codification, electronic payment process integration based on block chain, digital currency replacing real currency and so on.
+
+## Reference
+[1] Chen Oudi. Application analysis of blockchain technology in optimizing cross-border e-commerce payment mode [J]. Contemporary Economics, 2018(22): 17-19.
+[2] Li Jia. Innovation and prospect of electronic payment based on blockchain [J]. China Business and Market, 2018(10): 16-25.
+[3] Ma Li, Zhu Shuo. Application and risks of blockchain technology in the field of payment and settlement [J]. Chinese Review of Financial Studies, 2018(4): 83-121.
+[4] Lian Zheng. Research on a new model of international trade cross-border payment created based on Blockchain [J]. Trade and Economy, 2018(13): 71-72.
+[5]Liu Gang，Yang Jianzheng. Research on the development status and future trend of electronic payment in China [J]. Electronic Commerce，2017（2）：34-36.
+[6] Ma Lin, Xiang Xuefei, Han Limeiyi. Application of blockchain technology on cross-border e-commerce payment [J]. Electronic Commerce, 2018(14): 29-30.
