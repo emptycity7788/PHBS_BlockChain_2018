@@ -9,4 +9,4 @@ Block chain technology, as the underlying technology support, has a huge possibi
 * Block chains can help achieve high security and user protection. Based on the characteristics of distributed bookkeeping in block chain, the work related to privacy and security, such as authentication, proof of rights and interests, intelligent assets, etc., can be effectively reformed.
 If the blockchain-based payment system could be achieved finally, the system should be as shown in the following figure:
 
-![](https://github.com/joooyyy/PHBS_BlockChain_2018/blob/master/Figure1blockchain-based payment system.png)
+![](https://github.com/joooyyy/PHBS_BlockChain_2018/blob/master/Figure1paymentsystem.png)
