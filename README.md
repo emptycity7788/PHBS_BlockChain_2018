@@ -10,3 +10,5 @@ Block chain technology, as the underlying technology support, has a huge possibi
 If the blockchain-based payment system could be achieved finally, the system should be as shown in the following figure:
 
 ![](https://github.com/joooyyy/PHBS_BlockChain_2018/blob/master/Figure1paymentsystem.png)
+
+Compared with traditional payment system, blockchain-based payment system mainly has following features. 
