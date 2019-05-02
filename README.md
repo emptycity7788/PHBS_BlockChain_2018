@@ -7,6 +7,7 @@ Block chain technology, as the underlying technology support, has a huge possibi
 * Blockchain, using intelligent contract instead of traditional contract, can help avoid contract execution accidents caused by human emotional factors.
 * Blockchain can help overall supervision and realize intelligent supervision through credit information management system, and also simplify electronic payment process. 
 * Block chains can help achieve high security and user protection. Based on the characteristics of distributed bookkeeping in block chain, the work related to privacy and security, such as authentication, proof of rights and interests, intelligent assets, etc., can be effectively reformed.
+
 If the blockchain-based payment system could be achieved finally, the system should be as shown in the following figure:
 
 ![](https://github.com/joooyyy/PHBS_BlockChain_2018/blob/master/Figure1paymentsystem.png)
@@ -21,6 +22,7 @@ Compared with traditional payment system, blockchain-based payment system mainly
 
 ## 2.	Application of Blockchain-based Payment System - Ripple
 Nowadays, many institutions worldwide have carried out relevant research and exploration due to the optimization effect of block chain technology on payment system. For example, UBS has set up the Block Chain Finance Research and Development Laboratory, which mainly explores the future development of Block Chain in payment and settlement mode. In this part, I’ll mainly focus on Ripple Payment Network and try to explore the current situation and development principle.
+
 ### 2.1 Brief Introduction
 The earliest history of RipplePay can be traced back to 2004, when Ryan Fugger, a software developer in Canada, invented RipplePay protocol for Internet payment. In 2012, the company was officially established as OpenCoin, which was later renamed as Ripple lab. Ripple then started to develope a new payment Protocol called Ripple Transaction Protocol which has following features:
 * Instant and direct transfer between users, without any intermediary.
