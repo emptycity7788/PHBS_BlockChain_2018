@@ -102,8 +102,13 @@ After successfully building the blockchain-based payment system, further develop
 
 ## Reference
 [1] Chen Oudi. Application analysis of blockchain technology in optimizing cross-border e-commerce payment mode [J]. Contemporary Economics, 2018(22): 17-19.
+
 [2] Li Jia. Innovation and prospect of electronic payment based on blockchain [J]. China Business and Market, 2018(10): 16-25.
+
 [3] Ma Li, Zhu Shuo. Application and risks of blockchain technology in the field of payment and settlement [J]. Chinese Review of Financial Studies, 2018(4): 83-121.
+
 [4] Lian Zheng. Research on a new model of international trade cross-border payment created based on Blockchain [J]. Trade and Economy, 2018(13): 71-72.
+
 [5]Liu Gang，Yang Jianzheng. Research on the development status and future trend of electronic payment in China [J]. Electronic Commerce，2017（2）：34-36.
+
 [6] Ma Lin, Xiang Xuefei, Han Limeiyi. Application of blockchain technology on cross-border e-commerce payment [J]. Electronic Commerce, 2018(14): 29-30.
